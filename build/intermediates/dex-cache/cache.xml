@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\Freelancer\PhotoApp2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="E:\Freelancer\PhotoApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.0_5a4eca7beed5622340cff4bfc0b6a506ad193855\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Freelancer\PhotoApp2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="E:\Freelancer\PhotoApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_4cffa635fb7bac4d5577d175b54bb67429e34798\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Freelancer\PhotoApp2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="E:\Freelancer\PhotoApp2\app\build\intermediates\pre-dexed\release\internal_impl-25.0.0_5cc40dd784074dc837efdae71a1091fbb19cb31a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Freelancer\PhotoApp2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="E:\Freelancer\PhotoApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_903188a8da6a51cc654a269553b229eabe585ddb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Freelancer\PhotoApp2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="E:\Freelancer\PhotoApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.0_5fb4851a5815b5542779eb599877103b911d1ebc\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Freelancer\PhotoApp2\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Freelancer\PhotoApp2\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-25.0.0_a46b3421a707153f7497b811b65013dbc24e916a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sahajarora1286\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.0.1\39eff75ddcb987ff65888361a29f489c178429a3\okio-1.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="39eff75ddcb987ff65888361a29f489c178429a3">
+        <dex dex="E:\Freelancer\PhotoApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.0.1_3683be94876a3ca92f0df78dac4020f80d561e37\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Freelancer\PhotoApp2\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="E:\Freelancer\PhotoApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_7a640d7693ccb0e4859524c0e7ec3bcf9b7aac0a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Freelancer\PhotoApp2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="E:\Freelancer\PhotoApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_1c5a3d1b3fc7780548718ca3b7f04e45e5e22553\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Freelancer\PhotoApp2\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="E:\Freelancer\PhotoApp2\app\build\intermediates\pre-dexed\release\com.android.support-transition-25.0.0_31e73f100c4f4a64f609696da500b2699d6f73b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Freelancer\PhotoApp2\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="E:\Freelancer\PhotoApp2\app\build\intermediates\pre-dexed\release\com.android.support-recyclerview-v7-25.0.0_90401941d5143b3fd88b5938665030b62ee17b15.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Freelancer\PhotoApp2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="E:\Freelancer\PhotoApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_66953e8cd8e5afb7061aba2bffd494211d7f4e8d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Freelancer\PhotoApp2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="E:\Freelancer\PhotoApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_7b78244372092ea0f4cb1ece3ff99a2a083fb826\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Software\adt-bundle-windows-x86_64-20140702\adt-bundle-windows-x86_64-20140702\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="E:\Freelancer\PhotoApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_61caa1ac4bd691e756431a6e32b1e8f7802e78c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sahajarora1286\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.5.2\ecf534dba3a8446ce84cbb797d314763be212a68\glide-3.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ecf534dba3a8446ce84cbb797d314763be212a68">
+        <dex dex="E:\Freelancer\PhotoApp2\app\build\intermediates\pre-dexed\release\glide-3.5.2_01eaa64475f62db7ebc998e78eddf766dda3e0e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Freelancer\PhotoApp2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="E:\Freelancer\PhotoApp2\app\build\intermediates\pre-dexed\release\com.android.support-support-media-compat-25.0.0_feba76aa14aa402e8cff09f88451e7391ad7ad9c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Freelancer\PhotoApp2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="E:\Freelancer\PhotoApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.0_2f4fbd97c6588f668e8eef24ae8ca497a42ff3e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sahajarora1286\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="E:\Freelancer\PhotoApp2\app\build\intermediates\pre-dexed\release\picasso-2.5.2_6b14f61c258fab113f2c987c1877b66919d356ae.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Freelancer\PhotoApp2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="00decf45a684a8b5a47f75cc8ed0de1ba49ed336">
+        <dex dex="E:\Freelancer\PhotoApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_8ac7c501aca4fb4c7bf85e908aa67979b0de7e50\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sahajarora1286\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp-urlconnection\2.0.0\afe8399d352713b66e597e9670c741d1e60ae923\okhttp-urlconnection-2.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="afe8399d352713b66e597e9670c741d1e60ae923">
+        <dex dex="E:\Freelancer\PhotoApp2\app\build\intermediates\pre-dexed\release\okhttp-urlconnection-2.0.0_d0055dc55d6b5d37576bb36182b24ed500c932a3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sahajarora1286\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.0.0\4c8d1536dba3812cc1592090dc20c47a4ed3c35e\okhttp-2.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4c8d1536dba3812cc1592090dc20c47a4ed3c35e">
+        <dex dex="E:\Freelancer\PhotoApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-2.0.0_f70572380a0c219c409be5f7a8359cf4ec7403e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Freelancer\PhotoApp2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="E:\Freelancer\PhotoApp2\app\build\intermediates\pre-dexed\release\com.android.support-support-core-ui-25.0.0_52a58d4fb0e987fb14cda176223cfe9c4997e927.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="E:\Freelancer\PhotoApp2\app\build\intermediates\pre-dexed\release\gson-2.2.4_313aff129984a0a45e086871ec03bfcc02e7284e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Freelancer\PhotoApp2\app\build\intermediates\exploded-aar\com.android.support\design\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="E:\Freelancer\PhotoApp2\app\build\intermediates\pre-dexed\release\com.android.support-design-25.0.0_c31d8b4a668659385a7ed3738b72b52d2fe99b0c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Freelancer\PhotoApp2\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="E:\Freelancer\PhotoApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_88821ca7cd948cac2f1170ec86f17a34053efe59\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Freelancer\PhotoApp2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="be9d240106415a79827be547b4b6aa4ada8efe0d">
+        <dex dex="E:\Freelancer\PhotoApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_034cce2a668b499f9109cfcf2a4c1001fa287e06\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Freelancer\PhotoApp2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="E:\Freelancer\PhotoApp2\app\build\intermediates\pre-dexed\release\com.android.support-animated-vector-drawable-25.0.0_5a4eca7beed5622340cff4bfc0b6a506ad193855.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Freelancer\PhotoApp2\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="E:\Freelancer\PhotoApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.0.0_31e73f100c4f4a64f609696da500b2699d6f73b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Freelancer\PhotoApp2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="E:\Freelancer\PhotoApp2\app\build\intermediates\pre-dexed\release\com.android.support-support-vector-drawable-25.0.0_5fb4851a5815b5542779eb599877103b911d1ebc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sahajarora1286\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\1.6.1\efb0a36546aa8857ab8df358b106c1817e03cbee\retrofit-1.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="efb0a36546aa8857ab8df358b106c1817e03cbee">
+        <dex dex="E:\Freelancer\PhotoApp2\app\build\intermediates\pre-dexed\release\retrofit-1.6.1_901bae311a7126e588a8e28e3c449873a41c6a94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Freelancer\PhotoApp2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="E:\Freelancer\PhotoApp2\app\build\intermediates\pre-dexed\release\com.android.support-support-fragment-25.0.0_903188a8da6a51cc654a269553b229eabe585ddb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Freelancer\PhotoApp2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="E:\Freelancer\PhotoApp2\app\build\intermediates\pre-dexed\release\internal_impl-25.0.0_1c5a3d1b3fc7780548718ca3b7f04e45e5e22553.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Freelancer\PhotoApp2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="E:\Freelancer\PhotoApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_5cc40dd784074dc837efdae71a1091fbb19cb31a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sahajarora1286\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp-urlconnection\2.0.0\afe8399d352713b66e597e9670c741d1e60ae923\okhttp-urlconnection-2.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="afe8399d352713b66e597e9670c741d1e60ae923">
+        <dex dex="E:\Freelancer\PhotoApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-urlconnection-2.0.0_d0055dc55d6b5d37576bb36182b24ed500c932a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Freelancer\PhotoApp2\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="E:\Freelancer\PhotoApp2\app\build\intermediates\pre-dexed\release\internal_impl-25.0.0_7a640d7693ccb0e4859524c0e7ec3bcf9b7aac0a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Freelancer\PhotoApp2\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Freelancer\PhotoApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.0_a46b3421a707153f7497b811b65013dbc24e916a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Software\adt-bundle-windows-x86_64-20140702\adt-bundle-windows-x86_64-20140702\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="E:\Freelancer\PhotoApp2\app\build\intermediates\pre-dexed\release\support-annotations-25.0.0_61caa1ac4bd691e756431a6e32b1e8f7802e78c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Freelancer\PhotoApp2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="E:\Freelancer\PhotoApp2\app\build\intermediates\pre-dexed\release\internal_impl-25.0.0_7b78244372092ea0f4cb1ece3ff99a2a083fb826.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Freelancer\PhotoApp2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="E:\Freelancer\PhotoApp2\app\build\intermediates\pre-dexed\release\internal_impl-25.0.0_4cffa635fb7bac4d5577d175b54bb67429e34798.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Freelancer\PhotoApp2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="E:\Freelancer\PhotoApp2\app\build\intermediates\pre-dexed\release\com.android.support-support-core-utils-25.0.0_66953e8cd8e5afb7061aba2bffd494211d7f4e8d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Freelancer\PhotoApp2\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="E:\Freelancer\PhotoApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.0.0_90401941d5143b3fd88b5938665030b62ee17b15\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sahajarora1286\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.0.1\39eff75ddcb987ff65888361a29f489c178429a3\okio-1.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="39eff75ddcb987ff65888361a29f489c178429a3">
+        <dex dex="E:\Freelancer\PhotoApp2\app\build\intermediates\pre-dexed\release\okio-1.0.1_3683be94876a3ca92f0df78dac4020f80d561e37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Freelancer\PhotoApp2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="E:\Freelancer\PhotoApp2\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-25.0.0_2f4fbd97c6588f668e8eef24ae8ca497a42ff3e5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Freelancer\PhotoApp2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="E:\Freelancer\PhotoApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_feba76aa14aa402e8cff09f88451e7391ad7ad9c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sahajarora1286\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.5.2\ecf534dba3a8446ce84cbb797d314763be212a68\glide-3.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ecf534dba3a8446ce84cbb797d314763be212a68">
+        <dex dex="E:\Freelancer\PhotoApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.5.2_01eaa64475f62db7ebc998e78eddf766dda3e0e4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sahajarora1286\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="E:\Freelancer\PhotoApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_6b14f61c258fab113f2c987c1877b66919d356ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sahajarora1286\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.0.0\4c8d1536dba3812cc1592090dc20c47a4ed3c35e\okhttp-2.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4c8d1536dba3812cc1592090dc20c47a4ed3c35e">
+        <dex dex="E:\Freelancer\PhotoApp2\app\build\intermediates\pre-dexed\release\okhttp-2.0.0_f70572380a0c219c409be5f7a8359cf4ec7403e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Freelancer\PhotoApp2\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="E:\Freelancer\PhotoApp2\app\build\intermediates\pre-dexed\release\com.android.support-support-compat-25.0.0_88821ca7cd948cac2f1170ec86f17a34053efe59.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="E:\Freelancer\PhotoApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.2.4_313aff129984a0a45e086871ec03bfcc02e7284e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sahajarora1286\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\1.6.1\efb0a36546aa8857ab8df358b106c1817e03cbee\retrofit-1.6.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="efb0a36546aa8857ab8df358b106c1817e03cbee">
+        <dex dex="E:\Freelancer\PhotoApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-1.6.1_901bae311a7126e588a8e28e3c449873a41c6a94\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Freelancer\PhotoApp2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="E:\Freelancer\PhotoApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_52a58d4fb0e987fb14cda176223cfe9c4997e927\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Freelancer\PhotoApp2\app\build\intermediates\exploded-aar\com.android.support\design\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="E:\Freelancer\PhotoApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.0.0_c31d8b4a668659385a7ed3738b72b52d2fe99b0c\classes.dex" />
+    </item>
+
+</items>

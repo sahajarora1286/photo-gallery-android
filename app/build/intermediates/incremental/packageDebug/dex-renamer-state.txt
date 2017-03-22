@@ -1,0 +1,7 @@
+#Fri Feb 17 09:14:32 EST 2017
+base.0=E\:\\Freelancer\\PhotoApp2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_034cce2a668b499f9109cfcf2a4c1001fa287e06
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\Freelancer\\PhotoApp2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_8ac7c501aca4fb4c7bf85e908aa67979b0de7e50\\classes.dex
+base.1=E\:\\Freelancer\\PhotoApp2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_8ac7c501aca4fb4c7bf85e908aa67979b0de7e50
+file.0=E\:\\Freelancer\\PhotoApp2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_034cce2a668b499f9109cfcf2a4c1001fa287e06\\classes.dex

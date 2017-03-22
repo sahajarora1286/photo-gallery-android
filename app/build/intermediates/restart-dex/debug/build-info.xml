@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="mdpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="630791083727593"
+    token="-8409464751645104439"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="2097" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="551" />
+    <task
+        name="verifier"
+        duration="101" />
+
+    <artifact
+        location="E:\Freelancer\PhotoApp2\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="630791083727593"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="E:\Freelancer\PhotoApp2\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
